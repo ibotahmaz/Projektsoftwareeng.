@@ -1,6 +1,6 @@
 # AG7 Projekt Sofware Engineering
 
-Ein Projekt von Barkin, Yavuz, Ibrahim, Aydin, Filip
+Ein Projekt von Barkin, Yavuz, Ibrahim, Aydin, Filip <br>
 Betreut von 
 Prof. Dr. Heike Wiesner: wiesner@hwr-berlin.de
 
@@ -34,20 +34,20 @@ Dazu eine Frage: Würden Sie uns auch nach der Prüfung für Änderungen zur Ver
 3) Wir möchten gern, dass die Webseite gut von Google gefunden wird."
 ```
 
-### Installing
+### Aufgabenverteilung
 
-A step by step series of examples that tell you how to get a development env running
+Verantworlich für:
 
-Say what the step will be
-
-```
-Give the example
-```
-
-And repeat
+Plugin-Programmierung
 
 ```
-until finished
+Barkin, Filip
+```
+
+Kontaktpflege mit AG
+
+```
+Ibrahim
 ```
 
 End with an example of getting some data out of the system or using it for a little demo
