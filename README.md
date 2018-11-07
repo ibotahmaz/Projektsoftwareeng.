@@ -72,7 +72,7 @@ Dokumentation
 ```
 Aydin, Ibrahim, Yavuz
 ```
-Zukünftliche Websitepflege
+Zukünftige Websitepflege
 
 ```
 Aydin, Ibrahim, Yavuz, Barkin, Filip
