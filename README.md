@@ -1,7 +1,7 @@
 # AG7 Projekt Sofware Engineering
 
 Ein Projekt von Barkin, Yavuz, Ibrahim, Aydin, Filip <br>
-Betreut von 
+Betreut von : <br>
 Prof. Dr. Heike Wiesner: wiesner@hwr-berlin.de
 
 Holger Zimmermann: Holger.Zimmermann@hwr-berlin.de
