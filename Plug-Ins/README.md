@@ -1,5 +1,7 @@
 # Plug-Ins
 Hier sind alle JS Dateien zum Überprüfen und einbinden
+
+- index.js ist ein einfacher ocuter zum aufzählwn.
 ## Aufgabenstellung:
 Erstellung eines Plug-Ins
 ### Auftraggeberin
